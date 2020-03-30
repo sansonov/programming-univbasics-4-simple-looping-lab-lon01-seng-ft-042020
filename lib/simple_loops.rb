@@ -7,3 +7,7 @@ while i < 5 do
   i+=1
   end
 end
+
+def loop_message_n_times(string, n)
+
+end
