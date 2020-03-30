@@ -16,4 +16,4 @@ while i < n do
   end
 end
 
-def 
+def output_array(array)
